@@ -9,7 +9,7 @@ The Lighthouse report was run using Chrome DevTools with a throttled mobile conf
 Files:
 
 - `lighthouse-mobile.png`
-- `lighthouse-desktop.png`
+
 
 ## Accessibility
 
